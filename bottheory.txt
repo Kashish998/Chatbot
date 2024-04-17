@@ -1,0 +1,8 @@
+creating function for getting api response
+created a text of type string and none as optional
+
+nltk : natural language toolkit
+random library is used for choosing random responsein the end.
+pickle library for serialisation
+WordNetLemmtizer will reduce the words to stem (work, working, worked, will considered it as a same word)
+the values are stored in intents are dictionaries are sub keys and sub values
