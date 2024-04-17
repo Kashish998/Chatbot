@@ -6,7 +6,7 @@ import string
 import warnings
 warnings.filterwarnings('ignore')
 
-f = open(r"C:\Users\kashi\OneDrive\Documents\new 1.txt", 'r', errors ='ignore')
+f = open(r"C:\Users\kashi\OneDrive\Documents\bottheory.txt", 'r', errors ='ignore')
 
 raw = f.read()
 raw = raw.lower()
